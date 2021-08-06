@@ -22,7 +22,7 @@ export const AddCategory = ({setCategories}) => {
     return (
         
 
-        <form onSubmit={hendleSubmit}>
+        <form  onSubmit={hendleSubmit}>
             {/* <h1>{inputValue}</h1> */}
             <input
                 type="text"
@@ -31,7 +31,6 @@ export const AddCategory = ({setCategories}) => {
             />
         </form>
             
-       
     )
 }
 
