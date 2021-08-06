@@ -3,7 +3,7 @@
 }
 body{
   padding: 60px ;
-  background-color:rgb(36, 8, 8);
+  background-color:rgb(107, 43, 43);
 }
 
 input{
@@ -32,6 +32,7 @@ input{
 
 }
 .card p {
+  background-color: aliceblue;
   padding: 5px;
   text-align: center;
 }
